@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/whitelabels/static/css/main.05cafb59.css",
+    "main.js": "/whitelabels/static/js/main.cd1fd65f.js",
+    "static/media/real_second.jpg": "/whitelabels/static/media/real_second.153dcb85f87cb86e9982.jpg",
+    "static/media/real_first.jpg": "/whitelabels/static/media/real_first.21d7f0e744c15615cf90.jpg",
+    "static/media/whirlpool.jpg": "/whitelabels/static/media/whirlpool.adc0ff7a81554b9a81c3.jpg",
+    "static/media/building.jpg": "/whitelabels/static/media/building.78a30544836eefe380b2.jpg",
+    "static/media/cat.jpg": "/whitelabels/static/media/cat.7838fe09fc97c6695c04.jpg",
+    "index.html": "/whitelabels/index.html",
+    "main.05cafb59.css.map": "/whitelabels/static/css/main.05cafb59.css.map",
+    "main.cd1fd65f.js.map": "/whitelabels/static/js/main.cd1fd65f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05cafb59.css",
+    "static/js/main.cd1fd65f.js"
+  ]
+}
