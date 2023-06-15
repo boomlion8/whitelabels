@@ -1,0 +1,52 @@
+.container-content{
+    display: inline;
+    
+}
+
+.content-item{
+    margin-left: 18%;
+    
+}
+
+.contentImage{
+    
+    width: 75rem;
+    height: 30rem;
+    border-radius: 2%;
+}
+
+.content-text{
+    margin-top: 15px;
+}
+
+.content-title{
+    display: flex;
+    margin-left: 0%;
+}
+
+.content-title-item1{
+    flex: 6.5;
+    font-weight: bold;
+}
+
+.content-title-item2{
+    flex: 3;
+    font-weight: bold;
+    color: rgb(78, 78, 184);
+}
+
+
+.content-detail{
+    margin-top: 15px;
+    display: flex;
+}
+
+.content-detail-item1{
+    flex: 3.5;
+    
+}
+
+.content-detail-item2{
+    flex: 3.5;
+    margin-right: 20%;
+}

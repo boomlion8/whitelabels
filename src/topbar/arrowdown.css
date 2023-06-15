@@ -1,0 +1,35 @@
+.container{
+    padding-left: 30%;
+}
+
+.arrowIcon{
+    cursor: pointer;
+}
+
+
+
+.arrowdown-content{
+    position: absolute;
+    background: #fff;
+     box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    width: 6%;
+
+    right: 1%;
+}
+
+.arrowdown-item{
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 15px;
+    transition: all 0.3s;
+    font-weight: bold;
+    justify-content: space-between;
+   
+}
+
+
+.arrowdown-item:hover{
+    background: #f4f4f4;
+}

@@ -1,0 +1,102 @@
+
+
+.bottombarTitle{
+    margin-top: 2%;
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.bottombarHeader{
+    margin-top: 2%;
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    text-transform: uppercase;   
+    font-size: 1.3rem;
+}
+
+.bottombarDetails{
+    margin-top: 2%;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-weight: 100;
+}
+
+.bottombarCard{
+    display: inline;
+}
+
+.bottombarCardfirst,.bottombarCardSecond{
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.bottombarMargin{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.cardTitle{
+   padding-left: 30px;
+   padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+    background-color: rgb(196, 196, 214);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cardTitle:hover{
+    background-color: rgb(163, 163, 188);
+}
+
+.bbCard{
+    margin-top: 5%;
+    display: flex;
+    margin-bottom: 2%;
+    margin-left: 20%;
+    margin-right: 25%;
+    justify-content: space-between;
+}
+
+.card_img{
+    height: 20vh;
+width: 12vw;
+}
+/* 
+.cardItem{
+    
+} */
+
+.bbcardTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arrow{
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.bbcarditem{
+    background-color: aliceblue;
+    border-radius: 3px;
+    margin-right: 30px;
+    padding: 5px;
+}
+
+.textfield{
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

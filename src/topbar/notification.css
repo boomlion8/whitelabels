@@ -1,0 +1,55 @@
+
+
+.notificationIcon{
+    cursor: pointer;
+}
+
+
+
+
+.notification-content{
+    position: absolute;
+    background: #fff;
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    width: 20%;
+
+    margin-top: 2px;
+    right: 16%;
+    
+}
+
+.notification-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+    border-radius: 15px;
+
+    cursor: pointer;
+  
+  
+}
+
+.catimage{
+    height: 30px;
+    width: 30px;
+    border-radius: 20%;
+}
+
+
+.notification-item:hover{
+    background: #f4f4f4;
+}
+.content{
+    display: list-item;
+}
+.content-title{
+    margin-left: 35%;
+    font-weight: 500;
+}
+
+
+.random{
+    font-size: small;
+}

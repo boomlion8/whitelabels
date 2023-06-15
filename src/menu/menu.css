@@ -1,0 +1,17 @@
+.menu-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.menu-item{
+    padding-left: 60px;
+    display:flex;
+    margin-left: 10px;
+
+
+    cursor: pointer;
+    
+}
+
+
